@@ -2,9 +2,39 @@ This is the dictionary of words for TBGLang.
 
 # List of Words
 
+## D
+
+do - /do/ (number) - two
+
+## Z
+
+za - /za/ (number) - zero
+
+## J
+
+je - /je/ (number) - one
+
+## P
+
+pǫ - /põ/ (number) - five
+
+## S
+
+sь - /sɪ/ (number) - seven
+
+## T
+
+ti - /ti/ (number) - three
+
+## Č
+
+čъ - /tɕʌ/ (number) - four
+
 ## Š
 
 šulejs - /'ʃu.lejs/ (noun, m.) - Probably shoelace, but the meaning is unclear. Can be used to mean any rope-like object, it seems. And even things that aren't knottable, e.g. a guitar string is a šulejs.
+
+šę - /ʃɛ̃/ (number) - six
 
 ## 曜
 
