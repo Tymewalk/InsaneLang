@@ -10,6 +10,8 @@ Initial idea, based on Proto-Slavic:
 
 a b v/w g d dz dь e ž z i j k l lь m n nь o p r rь s t tь u x c č š šč ъ y ь ę ǫ (nasal)
 
+' - "wthkw", pronounced as a glottal stop - /ʔ/
+
 ## Special Letters, Ligatures, and Diphthongs
 
 曜 is a special letter pronounced "zigazagah" (as in English).
