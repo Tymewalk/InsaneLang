@@ -18,4 +18,4 @@ a b v/w g d dz dь e ž z i j k l lь m n nь o p r rь s t tь u x c č š šč
 
 ## Special Letters, Ligatures, and Diphthongs
 
-曜 is a special letter pronounced "zigazagah" (as in English).
+曜 is a special letter pronounced /'zɪga.zɑg.ɑh/.
