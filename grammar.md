@@ -1,26 +1,28 @@
-NOUNS
+# NOUNS
+
 Nouns can be masculine, feminine, neuter, abstract, or tangible.
 
-PRONOUNS
+# PRONOUNS
 
 
-VERBS
+# VERBS
+
 Verbs belong to either Type I, Type II, or Type III.
 
-ADJECTIVES
+# ADJECTIVES
 
 
-NUMBERS
+# NUMBERS
 
 
-ADVERBS
+# ADVERBS
 
 
-CONJUNCTIONS
+# CONJUNCTIONS
 
 
-PREPOSITIONS
+# PREPOSITIONS
 
 
-INTERJECTIONS
+# INTERJECTIONS
 
