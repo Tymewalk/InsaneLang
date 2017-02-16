@@ -2,6 +2,10 @@ This is the dictionary of words for TBGLang.
 
 # List of Words
 
+## V
+
+vǫmuk - /'võ.muk/ (noun, m.) - water
+
 ## D
 
 do - /do/ (number) - two
@@ -9,6 +13,10 @@ do - /do/ (number) - two
 ## Z
 
 za - /za/ (number) - zero
+
+## I
+
+ilьap - /i.'lʲap/ (noun, m.) - fire
 
 ## J
 
@@ -25,6 +33,10 @@ sь - /sɪ/ (number) - seven
 ## T
 
 ti - /ti/ (number) - three
+
+## X
+
+xigel - /'xi.gel/ (noun, m.) - fire
 
 ## Č
 
