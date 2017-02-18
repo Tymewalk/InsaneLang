@@ -16,7 +16,7 @@ za - /za/ (number) - zero
 
 ## I
 
-ilьap - /i.'lʲap/ (noun, m.) - fire
+ilьap - /i.'lʲap/ (noun, m.) - land
 
 ## J
 
