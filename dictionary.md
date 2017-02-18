@@ -34,6 +34,10 @@ sь - /sɪ/ (number) - seven
 
 ti - /ti/ (number) - three
 
+## U
+
+usausausausausausausa... - /'u.sa'u.sa'u.sa'u.sa'u.sa'u.sa'u.sa.../ (noun, f.) - The United States, but in a very partiotic way.
+
 ## X
 
 xigel - /'xi.gel/ (noun, m.) - fire
